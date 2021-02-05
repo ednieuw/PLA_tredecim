@@ -39,6 +39,4 @@ or make sigmoid curves linear.</p>
 <p class=MsoNoSpacing style1 style2>Below the 2009 version single sample program.<br>
 <span class="style1"><a href="PLA-V28Feb2009.zip">Download PLA_V28Feb2009</a> in Microsoft Excel</span></p>
 <p class="style1"><img src="PLA-example.jpg" width="1024"></p>
-<p class="style1"><a href="../Regression.htm">&lt;-- Back to calibration programs</a></p>
-<p class="style1"><span lang=EN-GB><a href="../../email.html">Ed Nieuwenhuys</a>, 13 august 2019 </span></p>
-<p class="style1">&nbsp;</p>
+
