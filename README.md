@@ -1,7 +1,7 @@
 # PLA_tredecim
  PLA in Excel for 13 samples
 
-See also here: https://ednieuw.home.xs4all.nl/Calibration/PLA/PLA.htm
+See also here: https://ednieuw.nl/Calibration/PLA/PLA.htm
 
 
 <img src="PLA-rekensheet.png" width="1024">
